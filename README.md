@@ -6,7 +6,7 @@ A package to access Google Gemini API in Emacs. Fetch from the Google Gemini API
 1. Download repository in local machine.
 2. In the config file of emacs type:
    ```
-   (add-to-list 'load-path "~/.emacs.d/genimi")
+   (add-to-list 'load-path "<path_to_directory_which_contains_genimi.el>")
 	   (require 'genimi)
    ```
 3. Set Gemini API key using
