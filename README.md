@@ -11,7 +11,7 @@ A way to access Google Gemini API in Emacs. Fetch from the API on emacs.
    ```
 3. Set Gemini API key using
    ```
-   (customize-save-variable 'GeminiKey "AIzaSyBPUikVyKm2eanLIADdpbowMa_lx1nEI8E")
+   (customize-save-variable 'GeminiKey "<GEMINI_API_KEY>")
    ```
 4. You are done.
 
