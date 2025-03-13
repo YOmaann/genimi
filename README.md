@@ -1,5 +1,5 @@
 # genimi
-A package to access Google Gemini API in Emacs. Fetch from the API on emacs.
+A package to access Google Gemini API in Emacs. Fetch from the Google Gemini API on emacs.
 
 # Installation
 
@@ -17,6 +17,7 @@ A package to access Google Gemini API in Emacs. Fetch from the API on emacs.
 
 # Usage
 
-Genimi can be invoked using `C-c g` keys. It selects the text from the current line and sends as prompt to the Gemini server.
+Genimi can be invoked using `C-c g` keys. It selects the text from the current line and sends as prompt to the Gemini server and prints the response in the next line of same buffer.
+
 
 ![demo](demo/genimi2.gif "Demo")
